@@ -8,7 +8,7 @@ Digitised manuscripts sale catalogues semantically encoded and restructured in t
 
 ## Workflow
 
-The PDF scans (images + text layer, i.e. the OCR transcriptions generated from the [https://readcoop.eu/transkribus/?sc=Transkribus](Transkribus) software) were parsed on five levels with the _GROBID-Dictionaries_ API:
+The PDF scans (images + text layer, i.e. the OCR transcriptions generated from the [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus) software) were parsed on five levels with the _GROBID-Dictionaries_ API:
 
 
 
