@@ -1,6 +1,10 @@
 # Encoded TEI-XML catalogues
 
-Digitised manuscripts sale catalogues encoded in TEI-XML (level 1).
+Digitised manuscripts sale catalogues encoded and restructured in TEI-XML (level 1).
+
+* `AUC`: auction catalogues;
+* `LAC`: _Librairie ancienne et autographes de Charavay_;
+* `LAV`: _Catalogue de lettres autographes, manuscrits, documents historiques, etc., d'Auguste Laverdet_.
 
 ## Cite this repository
 
