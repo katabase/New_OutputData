@@ -12,7 +12,7 @@ The PDF scans (images + text layer, i.e. the OCR transcriptions generated from t
 
 
 
-![GROBID-API](/Volumes/LaCie/Toolkit/Mirror/New_OutputData/img/GROBID-API.png)
+![GROBID-API](img/GROBID-API.png)
 
 <br> and exported into the document in the TEI-XML format, which was to be corrected manually.
 
