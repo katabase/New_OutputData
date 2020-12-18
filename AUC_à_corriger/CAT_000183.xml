@@ -4,7 +4,7 @@
               xmlns:s="http://purl.oclc.org/dsdl/schematron">
       <fileDesc>
          <titleStmt>
-            <title>Vente Étienne Charavay, 24 février 1881, collection de Forge</title>
+            <title>Vente Étienne Charavay, 24 janvier 1881, collection de Forge</title>
             <respStmt>
                <persName ref="#COL_000003">Ljudmila Petkovic</persName>
                <resp>
@@ -25,8 +25,8 @@
                <num/>
                <editor>Étienne Charavay</editor>
                <publisher>Étienne Charavay</publisher>
-               <pubPlace>Paris ?</pubPlace>
-               <date when="1881">1881 ?</date>
+               <pubPlace>Paris</pubPlace>
+               <date when="1881">1881</date>
             </bibl>
             <listEvent>
                <event>
@@ -654,7 +654,7 @@
             </item>
             <item n="75" xml:id="CAT_000183_e75">
                <num type="lot">75</num>
-               <name type="author">Voltaire (F.-M. ARQUET de)</name>
+               <name type="author">Voltaire (F.-M. AROUET de)</name>
                <trait>
                   <p>le grand écrivain.</p>
                </trait>
