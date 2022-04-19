@@ -108,13 +108,13 @@
                <desc xml:id="CAT_000394_e4085_d1">L. aut. sig. (en italien), à l'abbé... 8 juillet 1788, 293 p. in-4.</desc>
                <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
-            <item n="4085 bis." xml:id="CAT_000394_e4085 bis.">
+            <item n="4085 bis." xml:id="CAT_000394_e4085bis">
                <num type="lot">4085 bis.</num>
                <name type="author">Affre (Denis)</name>
                <trait>
                   <p>archevêque de Paris, tué dans les journées de juin 1848.</p>
                </trait>
-               <desc xml:id="CAT_000394_e4085 bis._d1">1°L. aut. sig., à Mgr... Paris, 20 avril 1845. 1 p. in-8. Tête imprimée. Au sujet des annales de M. Bonnety. Nombreuses erreurs historiques, fausses interprétations de textes de M. Saisset qu'il y a relevées... 2°Fragment aut. sur le bienheureux P. Fourrier. 4 p. in-4.</desc>
+               <desc xml:id="CAT_000394_e4085bis_d1">1°L. aut. sig., à Mgr... Paris, 20 avril 1845. 1 p. in-8. Tête imprimée. Au sujet des annales de M. Bonnety. Nombreuses erreurs historiques, fausses interprétations de textes de M. Saisset qu'il y a relevées... 2°Fragment aut. sur le bienheureux P. Fourrier. 4 p. in-4.</desc>
                <measure commodity="currency" unit="FRF" quantity="20">20</measure>
             </item>
             <item n="4086" xml:id="CAT_000394_e4086">
@@ -1254,10 +1254,10 @@
                <desc xml:id="CAT_000394_e4213_d1">L. aut. sig., à Mlle... 4 p. et demie in-8.</desc>
                <measure commodity="currency" unit="FRF" quantity="2.50">2 50</measure>
             </item>
-            <item n="4213.1" xml:id="CAT_000394_e4213.1">
+            <item n="4213.1" xml:id="CAT_000394_e42131">
                <num type="lot">4213.1</num>
                <name type="author">Lorraine (Catherine de).</name>
-               <desc xml:id="CAT_000394_e4213.1_d1">L. aut., à son frère, M. de Luxembourg de Piney. Sans date. 1 gr. p. pl. in-fol. Réchirures enlevant quelques mots de la marge extérieure.</desc>
+               <desc xml:id="CAT_000394_e42131_d1">L. aut., à son frère, M. de Luxembourg de Piney. Sans date. 1 gr. p. pl. in-fol. Réchirures enlevant quelques mots de la marge extérieure.</desc>
                <measure commodity="currency" unit="FRF" quantity="7.50">7 50</measure>
             </item>
             <item n="4214" xml:id="CAT_000394_e4214">

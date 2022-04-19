@@ -1059,13 +1059,13 @@
                <desc xml:id="CAT_000385_e2575_d1">L. aut. sig., à M. Huot. Paris, 1837. 2 p. et demie in-4.</desc>
                <measure commodity="currency" unit="FRF" quantity="1.50">1 50</measure>
             </item>
-            <item n="2575 bis." xml:id="CAT_000385_e2575 bis.">
+            <item n="2575 bis." xml:id="CAT_000385_e2575bis">
                <num type="lot">2575 bis.</num>
                <name type="author">Rivet</name>
                <trait>
                   <p>évêque de Dijon,</p>
                </trait>
-               <desc xml:id="CAT_000385_e2575 bis._d1">L. aut. sig., à M. Mathieu, pro fesseur de musique. Versailles, 1838. 1 p. in-4.</desc>
+               <desc xml:id="CAT_000385_e2575bis_d1">L. aut. sig., à M. Mathieu, pro fesseur de musique. Versailles, 1838. 1 p. in-4.</desc>
                <measure commodity="currency" unit="FRF" quantity="2">2</measure>
             </item>
             <item n="2576" xml:id="CAT_000385_e2576">

@@ -241,13 +241,13 @@
                <desc xml:id="CAT_000373_e66_d1">Pièce aut. sig., au sujet des ateliers nationaux. 1 p. in-8.</desc>
                <measure commodity="currency" unit="FRF" quantity="2.25">2 25</measure>
             </item>
-            <item n="66 bis." xml:id="CAT_000373_e66 bis.">
+            <item n="66 bis." xml:id="CAT_000373_e66bis">
                <num type="lot">66 bis.</num>
                <name type="author">Caroline de Brunswick</name>
                <trait>
                   <p>reine d'Angleterre.</p>
                </trait>
-               <desc xml:id="CAT_000373_e66 bis._d1">L. aut. sig. Caroline, princesse de Galles à Lucien Bonaparte, prince de Canino, à Rome. 3 gr. p. pl. in-4. Belle lettre.</desc>
+               <desc xml:id="CAT_000373_e66bis_d1">L. aut. sig. Caroline, princesse de Galles à Lucien Bonaparte, prince de Canino, à Rome. 3 gr. p. pl. in-4. Belle lettre.</desc>
                <measure commodity="currency" unit="FRF" quantity="25">25</measure>
             </item>
             <item n="67" xml:id="CAT_000373_e67">
