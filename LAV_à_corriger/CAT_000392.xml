@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../_schemas/odd_katabase.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../_schemas/odd_katabase.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAT_000392">
    <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0"
               xmlns:s="http://purl.oclc.org/dsdl/schematron">
@@ -2985,33 +2985,33 @@
                <desc xml:id="CAT_000392_e3871427_d1">L. aut. sig. Mansoura (Egypte), an VII. 3 gr. p. pl. et quart in-fol. (tachée par le vinaigre). Belle vignette. Portr. in-8.</desc>
                <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
-            <item n="VIALA" xml:id="CAT_000392_eVIALA">
+            <item n="VIALA" xml:id="CAT_000392_e3871428">
                <num type="lot">VIALA</num>
-               <desc xml:id="CAT_000392_eVIALA_d1">L. aut. sig. 1807. 3 p. in-4.</desc>
+               <desc xml:id="CAT_000392_e3871428_d1">L. aut. sig. 1807. 3 p. in-4.</desc>
                <measure commodity="currency" unit="FRF" quantity="1.50">1 50</measure>
             </item>
-            <item n="3871.428" xml:id="CAT_000392_e3871428">
+            <item n="3871.428" xml:id="CAT_000392_e3871429">
                <num type="lot">3871.428</num>
                <name type="author">VICTOR (le maréchal).</name>
-               <desc xml:id="CAT_000392_e3871428_d1">L. sig. 1811. 1 p. in-fol.</desc>
+               <desc xml:id="CAT_000392_e3871429_d1">L. sig. 1811. 1 p. in-fol.</desc>
                <measure commodity="currency" unit="FRF" quantity="2">2</measure>
             </item>
-            <item n="3871.429" xml:id="CAT_000392_e3871429">
+            <item n="3871.429" xml:id="CAT_000392_e3871430">
                <num type="lot">3871.429</num>
                <name type="author">VIGNOLLE.</name>
-               <desc xml:id="CAT_000392_e3871429_d1">Milan, an VI. 1 gr. p. in-fol. Très-belle vignette.</desc>
+               <desc xml:id="CAT_000392_e3871430_d1">Milan, an VI. 1 gr. p. in-fol. Très-belle vignette.</desc>
                <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
-            <item n="3871.430" xml:id="CAT_000392_e3871430">
+            <item n="3871.430" xml:id="CAT_000392_e3871431">
                <num type="lot">3871.430</num>
                <name type="author">VILLARET JOYEUSE (l'amiral).</name>
-               <desc xml:id="CAT_000392_e3871430_d1">L. aut. sig. 1818. 1 p. in-4.</desc>
+               <desc xml:id="CAT_000392_e3871431_d1">L. aut. sig. 1818. 1 p. in-4.</desc>
                <measure commodity="currency" unit="FRF" quantity="1.50">1 50</measure>
             </item>
-            <item n="3871.431" xml:id="CAT_000392_e3871431">
+            <item n="3871.431" xml:id="CAT_000392_e3871432">
                <num type="lot">3871.431</num>
                <name type="author">VILLEMANZY</name>
-               <desc xml:id="CAT_000392_e3871431_d1">L. aut. sig. Leipsic, 1807.</desc>
+               <desc xml:id="CAT_000392_e3871432_d1">L. aut. sig. Leipsic, 1807.</desc>
                <measure commodity="currency" unit="FRF" quantity="1.25">1 25</measure>
             </item>
             <item n="3871.433" xml:id="CAT_000392_e3871433">

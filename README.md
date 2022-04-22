@@ -112,8 +112,8 @@ The PDF scans (images + text layer, *i.e.* the OCR transcriptions generated from
     The structure of the newly generated document was validated using the another XML schema, created by Lucie Rondeau du Noyer:
 
     ```xml
-    <?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../_schemas/odd_katabase.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../_schemas/odd_katabase.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     ```
 
     
