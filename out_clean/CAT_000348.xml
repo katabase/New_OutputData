@@ -400,13 +400,13 @@
                <desc xml:id="CAT_000348_e20261_d1">L. a. s.; Paulette, à M. Michelot; 1 p. in-8.</desc>
                <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
-            <item n="20261_bis" xml:id="CAT_000348_e20261_bis">
+            <item n="20261_bis" xml:id="CAT_000348_e20261bis">
                <num type="lot">20261_bis</num>
                <name type="author">BONAPARTE (Alexandrine)</name>
                <trait>
                   <p>princesse de Canino, femme de Lucien.</p>
                </trait>
-               <desc xml:id="CAT_000348_e20261_bis_d1">L. a. s. à Ch. Paillet; Musignano, 23 févr. 1841, 3 p. in-8, cachet.</desc>
+               <desc xml:id="CAT_000348_e20261bis_d1">L. a. s. à Ch. Paillet; Musignano, 23 févr. 1841, 3 p. in-8, cachet.</desc>
                <measure commodity="currency" unit="FRF" quantity="5.50">5 50</measure>
                <note>Relative à la succession de son mari et au télescope avec lequel Herschel a découvert Uranus, lequel a appartenu à Lucien Bonaparte.</note>
             </item>

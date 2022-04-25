@@ -87,12 +87,12 @@
          <list>
             <item n="1" xml:id="CAT_000317_e1">
                <num type="lot">1</num>
-               <name>ALBUM</name>
+               <name type="other">ALBUM</name>
                <desc xml:id="CAT_000317_e1_d1">Album in-4° contenant une réunion de dessins, lettres, poésies de : Edouard d'Anglemont, Lamartine, Méry, Alexandre Dumas, Sully-Prudhomme, IL. Monnier, Sivori, H. de Bor- nier, etc.</desc>
             </item>
             <item n="2" xml:id="CAT_000317_e2">
                <num type="lot">2</num>
-               <name>ALBUM</name>
+               <name type="other">ALBUM</name>
                <note>Album in-8° oblong contenant des croquis, morceaux de musique, poésies, pensées autographes de : Jules Noriac, E. de Girardin, Pauline Viardot, Verlaine, Litolfj, Cham, etc.</note>
             </item>
             <item n="3" xml:id="CAT_000317_e3">

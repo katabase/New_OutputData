@@ -174,7 +174,7 @@
             </item>
             <item n="3785" xml:id="CAT_000392_e3785">
                <num type="lot">3785</num>
-               <name>Ambleteuse (Mémoire sur le port d')</name>
+               <name type="other">Ambleteuse (Mémoire sur le port d')</name>
                <trait>
                   <p>en 1766, avec les réparations à y faire, remis au ministère en septembre 1776.</p>
                </trait>
@@ -193,7 +193,7 @@
             </item>
             <item n="3787" xml:id="CAT_000392_e3787">
                <num type="lot">3787</num>
-               <name>Anecdote sur Bélisaire</name>
+               <name type="other">Anecdote sur Bélisaire</name>
                <trait>
                   <p>(par l'abbé Mauduit, qui ne veut pas être nommé).</p>
                </trait>
@@ -454,7 +454,7 @@
             </item>
             <item n="3816" xml:id="CAT_000392_e3816">
                <num type="lot">3816</num>
-               <name>Description de la carte nautique</name>
+               <name type="other">Description de la carte nautique</name>
                <trait>
                   <p>de l'entrée de l'Ems oriental et occidental et de l'Hommegat, ainsi que de la route à faire pour aller à Embden et à De Fzyl, dressée par Jean Ruvl, Thomas Douwes van Kammenga, et Jacob Pieters de Vries, à Embden, 1793.</p>
                </trait>
@@ -472,7 +472,7 @@
             </item>
             <item n="3818" xml:id="CAT_000392_e3818">
                <num type="lot">3818</num>
-               <name>Eglise cathédrale de Strasbourg (Investiture du canonicat, de S. A. Mgr le prince Frédéric en l').</name>
+               <name type="other">Eglise cathédrale de Strasbourg (Investiture du canonicat, de S. A. Mgr le prince Frédéric en l').</name>
                <desc xml:id="CAT_000392_e3818_d1">Pièce signée par François Bernard, prince de Nassau, doyen du chapitre de Strasbourg, août 1674. 1 p. in-fol. en travers avec le grand sceau, assez bien conservé, quoique un peu brisé.</desc>
                <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
@@ -505,19 +505,19 @@
             </item>
             <item n="3822" xml:id="CAT_000392_e3822">
                <num type="lot">3822</num>
-               <name>Les Amours du Palais-Royal (de Louis XIV et de Mlle de la Vallière)</name>
+               <name type="other">Les Amours du Palais-Royal (de Louis XIV et de Mlle de la Vallière)</name>
                <desc xml:id="CAT_000392_e3822_d1">Histoire de l'amour feint du roi pour Madame.. Manuscrit (écriture du 18e siècle) de 22 gr. p. pl. grand in-fol. Les trois premières pages sont fortement endommagées par l'humidité...</desc>
                <measure commodity="currency" unit="FRF" quantity="25">25</measure>
             </item>
             <item n="3823" xml:id="CAT_000392_e3823">
                <num type="lot">3823</num>
-               <name>L'Etoile (Extraits des mémoires de)</name>
+               <name type="other">L'Etoile (Extraits des mémoires de)</name>
                <desc xml:id="CAT_000392_e3823_d1">du 30 mai 1574, au 1er août 1589. Manuscrit de 25 pages in-fol. (écriture du 17e siècle).</desc>
                <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="3824" xml:id="CAT_000392_e3824">
                <num type="lot">3824</num>
-               <name>Lettre sur l'Iphygénie</name>
+               <name type="other">Lettre sur l'Iphygénie</name>
                <trait>
                   <p>de Monsieur Racine et sur celle de Rotrou, par Boscheron.</p>
                </trait>
@@ -566,7 +566,7 @@
             </item>
             <item n="3830" xml:id="CAT_000392_e3830">
                <num type="lot">3830</num>
-               <name>Perle.</name>
+               <name type="other">Perle.</name>
                <desc xml:id="CAT_000392_e3830_d1">Note sur une perle extraordinaire pour son volume, et cependant de la plus grande beauté, par Delamarck. Paris, 1818. Manuscrit de 2 p. pl. et demie in-4.</desc>
                <measure commodity="currency" unit="FRF" quantity="2">2</measure>
             </item>
@@ -623,7 +623,7 @@
             </item>
             <item n="3837" xml:id="CAT_000392_e3837">
                <num type="lot">3837</num>
-               <name>Relation</name>
+               <name type="other">Relation</name>
                <trait>
                   <p>des faits principaux concernant le rétablissement de la famille de Chandasoeb sur le trône d'Arcatte, capitale du Carnath à la côte de Coromandel, aux grandes Indes, extraite des lettres et relations arrivées par l'Apollon, entré dans le port de Brest le 19 mars 1750.</p>
                </trait>
@@ -632,7 +632,7 @@
             </item>
             <item n="3838" xml:id="CAT_000392_e3838">
                <num type="lot">3838</num>
-               <name>Relation des guerres de Pondichéri de l'année 1751</name>
+               <name type="other">Relation des guerres de Pondichéri de l'année 1751</name>
                <trait>
                   <p>adressée à sa mère, par Cossard de Terranean.</p>
                </trait>
@@ -729,7 +729,7 @@
             </item>
             <item n="3849" xml:id="CAT_000392_e3849">
                <num type="lot">3849</num>
-               <name>Salles de spectaeles de Nîmes.</name>
+               <name type="other">Salles de spectaeles de Nîmes.</name>
                <desc xml:id="CAT_000392_e3849_d1">1°L. aut. sig. de Sabonadière l'ainé, au ministre des finances, au sujet de la cons truction d'une nouvelle salle de spectacle, à Nîmes. Paris, 28 plu viôse an VII. 1 p. in-fol. -2°Pièces relatives aux deux salles de spectacle de Nîmes, par le même. Imprimé de 19 p. in-4. Paris, 21 pluviôse an VII.</desc>
                <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
@@ -790,7 +790,7 @@
             </item>
             <item n="3856" xml:id="CAT_000392_e3856">
                <num type="lot">3856</num>
-               <name>Sumatra (Recherches et Observations sur le commerce de l'île de)</name>
+               <name type="other">Sumatra (Recherches et Observations sur le commerce de l'île de)</name>
                <trait>
                   <p>et ses relations avec le commerce de la Compagnie des Indes anglaises à la Chine.</p>
                </trait>
@@ -1055,9 +1055,9 @@
                <desc xml:id="CAT_000392_e387120_d1">L. aut. sig. 1840. 1 p. in-4.</desc>
                <measure commodity="currency" unit="FRF" quantity="1">1</measure>
             </item>
-            <item n="" xml:id="CAT_000392_e">
+            <item n="3871.21" xml:id="CAT_000392_e387121">
                <name type="author">BERTHIER (le maréchal).</name>
-               <desc xml:id="CAT_000392_e_d1">L. aut. sig. Au Caire, an VII. 1 p. in-fol. Tête imprimée.</desc>
+               <desc xml:id="CAT_000392_e387121_d1">L. aut. sig. Au Caire, an VII. 1 p. in-fol. Tête imprimée.</desc>
                <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="3871.22" xml:id="CAT_000392_e387122">

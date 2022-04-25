@@ -633,11 +633,6 @@
                <desc xml:id="CAT_000338_e7670_d1">L. a. s. 1829, 2 p. 1/2, in-8, jolie épître</desc>
                <measure commodity="currency" unit="FRF" quantity="3.50">3 50</measure>
             </item>
-            <item n="7671" xml:id="CAT_000338_e7671">
-               <num type="lot">7671</num>
-               <name type="author"/>
-               <desc xml:id="CAT_000338_e7671_d1"/>
-            </item>
             <item n="7672" xml:id="CAT_000338_e7672">
                <num type="lot">7672</num>
                <name type="author">GOUGES (Olympe de)</name>
@@ -686,7 +681,7 @@
             <item n="7676_bis" xml:id="CAT_000338_e7676_bis">
                <num type="lot">7676_bis</num>
                <name type="author">Le même.</name>
-               <desc xml:id="CAT_000338_e7676_bis_d1">Jolie pièce signée sur vélin, 1594, in-fol, en travers.</desc>
+               <desc xml:id="CAT_000338_e7676bis_d1">Jolie pièce signée sur vélin, 1594, in-fol, en travers.</desc>
                <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="7677" xml:id="CAT_000338_e7677">

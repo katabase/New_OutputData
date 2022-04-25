@@ -349,7 +349,7 @@
             </item>
             <item n="34" xml:id="CAT_000311_e34">
                <num type="lot">34</num>
-               <name>DOCUMENTS DIVERS</name>
+               <name type="other">DOCUMENTS DIVERS</name>
                <desc xml:id="CAT_000311_e34_d1">160 pièces</desc>
                <note>Grande aumônerie de France, guerre de 1870-71, domaine du Roi, diplômes de différentes sociétés, juifs parisiens, dossier concernant les bourgeois de Paris.</note>
             </item>
@@ -367,19 +367,19 @@
             </item>
             <item n="37" xml:id="CAT_000311_e37">
                <num type="lot">37</num>
-               <name>EGLISES DE PARIS</name>
+               <name type="other">EGLISES DE PARIS</name>
                <desc xml:id="CAT_000311_e37_d1">500 pièces environ du XIVe au XIXe siècle</desc>
                <note>PRÉCIEUX DOSSIER renfermant des documents de toutes natures sur la plupart des anciennes églises de Paris. Devis de construction, réparations d'orgues, terriers, titres de propriété, inventaire de biens mobiliers et immobiliers, enlèvement des cercueils de plomb, dépouilles des églises par la Révolution, leur fermeture et leur réouverture, extraits mortuaires et baptistaires, etc...</note>
             </item>
             <item n="38" xml:id="CAT_000311_e38">
                <num type="lot">38</num>
-               <name>EGLISES DE PARIS</name>
+               <name type="other">EGLISES DE PARIS</name>
                <desc xml:id="CAT_000311_e38_d1">L. A. S. de Pémartin, sig. aussi par Rovère, Calès, Monmayou, Kercelegen, etc., à l'administration du département de Paris; 6 messidor an III (24 juin 1795), 1 p. in-fol., vig., tête imp. et sceau du Comité de sûreté générale.</desc>
                <note>Lettres des membres du Comité de sûreté générale. En voici la teneur : « Nous sommes instruits, citoyens, que. sous divers prétextes, il est des personnes qui se permettent d'enlever des cy-devant églises de Paris des pièces de marbre et autres objets intéressants. Le Comité civil de la section de la Cité a arrêté aujourd'huy un voiturier qui avait commencé d'en transporter une voiture. Nous vous invitons, citoyens, à prendre des mesures propres à prévenir de pareils brigandages, et à traduire devant les tribunaux ceux qui s'en sont déjà permis.»</note>
             </item>
             <item n="39" xml:id="CAT_000311_e39">
                <num type="lot">39</num>
-               <name>EGLISES DE PARIS</name>
+               <name type="other">EGLISES DE PARIS</name>
                <desc xml:id="CAT_000311_e39_d1">1° Délibération de la Commune, sig. Méhée 10 sept. 1792, 1 p. in-fol</desc>
                <note>« Considérant que sous le règne de la liberté et de l'égalité, il ne doit plus y avoir de lignes de démarcation entre les citoyens, le conseil rapporte l'arrêté par lequel il conservait les grilles de Saint-Médard, et décide que toutes les grilles des églises sont mises à la disposition des sections pour en fabriquer des piques.</note>
                <desc xml:id="CAT_000311_e39_d2">2° Arrêté de la section des Quatre-Nations, sig. Saucède, secrétaire ; 13 sept. 1792, 1 p. in-4.</desc>
@@ -389,7 +389,7 @@
             </item>
             <item n="40" xml:id="CAT_000311_e40">
                <num type="lot">40</num>
-               <name>ENVIRONS DE PARIS.</name>
+               <name type="other">ENVIRONS DE PARIS.</name>
                <desc xml:id="CAT_000311_e40_d1">195 pièces du XIVe au XIXe siècles.</desc>
                <note>Vie de Jean Arnou, curé de Fontenay-lez-Briis, vente d'une carrière à plâtre à Châtillon; notice historique sur Rambouillet, dissertation montrant que le corps de saint Marc l'évangéliste est à Limours, inventaire de l'église de Noisy- le-Sec, église d'Auffargis, église et lavoir de Vanves, cure de Thiais, fournitures pour le château de Bellevue, monastère des Hautes-Bruyères, etc.</note>
             </item>
@@ -410,7 +410,7 @@
             </item>
             <item n="43" xml:id="CAT_000311_e43">
                <num type="lot">43</num>
-               <name>FÊTES ET CÉRÉMONIES</name>
+               <name type="other">FÊTES ET CÉRÉMONIES</name>
                <desc xml:id="CAT_000311_e43_d1">70 pièces</desc>
                <note>Feu de la Saint-Jean, visite de Louis XIV à la place des Victoires, cérémonie funèbre en l'honneur des victimes de juin 1848, couronnement de Louis XIII, baptême du duc de Bordeaux, procession de la Fête-Dieu, entrée d'Henri II, à Paris, sacre de Napoléon Ier, sacre de Charles X, etc...</note>
             </item>
@@ -449,13 +449,13 @@
             </item>
             <item n="48" xml:id="CAT_000311_e48">
                <num type="lot">48</num>
-               <name>HOPITAUX</name>
+               <name type="other">HOPITAUX</name>
                <desc xml:id="CAT_000311_e48_d1">60 pièces du XVIe au XIXe siècles</desc>
                <note>Quinze-Vingts, Bicêtre, Gros-Cailloux, Hôtel-Dieu, Salpêtrière, la Trinité, etc...</note>
             </item>
             <item n="49" xml:id="CAT_000311_e49">
                <num type="lot">49</num>
-               <name>INSTRUCTION PUBLIQUE</name>
+               <name type="other">INSTRUCTION PUBLIQUE</name>
                <desc xml:id="CAT_000311_e49_d1">223 pièces</desc>
                <note>Encouragements aux savants et artistes, liste d'émargements de professeurs des facultés, pièces concernant l'Académie d'architecture, les anciens collèges parisiens, l'Université de Paris, la Sorbonne, les sociétés d'instruction, etc...</note>
             </item>
@@ -561,19 +561,19 @@
             </item>
             <item n="61" xml:id="CAT_000311_e61">
                <num type="lot">61</num>
-               <name>MÉTIERS ET CORPORATIONS</name>
+               <name type="other">MÉTIERS ET CORPORATIONS</name>
                <desc xml:id="CAT_000311_e61_d1">130 pièces du XVe au XIXe siècles</desc>
                <note>Confirmation par Louis XIV, des nouveaux statuts de la corporation des marchands fripiers de Paris, lettres de Jurande, communauté des marchands de vin, lettre de maîtrise de limonadier-vinaigrier, de tailleur marchand d'habits, patente de menuisier, brevet d'expert-juré, contrat d'apprentissage, inventaire d'un maître-cordonnier, communauté des brodeurs de Paris, mémoires de travaux, etc...</note>
             </item>
             <item n="62" xml:id="CAT_000311_e62">
                <num type="lot">62</num>
-               <name>MONASTÈRES ET COUVENTS</name>
+               <name type="other">MONASTÈRES ET COUVENTS</name>
                <desc xml:id="CAT_000311_e62_d1">733 pièces environ, du XVIe au XIXe siècles</desc>
                <note>Port-Royal, Dominicains de la rue Saint-Honoré, Carmélites de la rue de Grenelle, de la rue Saint-Jacques, fondation d'une chapelle dans le château de Madrid, Saint Sépulcre du faubourg Saint-Germain, Filles de la Charité, Filles de Sainte-Geneviève, Feuillantines de la rue Saint-Jacques, Bénédictines du Val-de-Grâce, Filles de Saint-Thomas, Visitation, hospitalières de la place Royale, Saint-Antoine des Champs, Filles Dieu de la rue Saint-Denis, Feuillants, etc.</note>
             </item>
             <item n="63" xml:id="CAT_000311_e63">
                <num type="lot">63</num>
-               <name>MONNAIES</name>
+               <name type="other">MONNAIES</name>
                <desc xml:id="CAT_000311_e63_d1">10 pièces</desc>
                <note>Procès-verbal de réception d'une machine à vapeur établie à la Monnaie de Paris, reçus signés par Oudiné, Domard, Merley, pour la gravure des monnaies, etc...</note>
             </item>
@@ -588,13 +588,13 @@
             </item>
             <item n="65" xml:id="CAT_000311_e65">
                <num type="lot">65</num>
-               <name>MONUMENTS</name>
+               <name type="other">MONUMENTS</name>
                <desc xml:id="CAT_000311_e65_d1">170 pièces du XVe au XIXe siècles</desc>
                <note>Hôtel de Brissac, boutiques du Pont-Neuf, écurie du Roi, Observatoire, Hôtel de Ville, palais de Justice, Tuileries, pont de la Concorde, Bastille, rétablissement de la statue d'Henri IV, Monceaux, Luxembourg, quittances d'artistes modernes ayant travaillé à la décoration du Louvre et des Tuileries, Invalides, arc de triomphe de l'Etoile, etc...</note>
             </item>
             <item n="66" xml:id="CAT_000311_e66">
                <num type="lot">66</num>
-               <name>MONUMENTS PARISIENS</name>
+               <name type="other">MONUMENTS PARISIENS</name>
                <desc xml:id="CAT_000311_e66_d1">130 pièces du XVIIe au XIXe siècles</desc>
                <note>Brevet de concierge du palais du Luxembourg, documents sur les ponts et les remparts, les fontaines, le garde-meuble, l'arc de triomphe du Carrousel, les limites de Paris, les canaux, projet de monument à la Victoire: vente de 17 maisons du pont Saint-Michel, pièces sur le Palais de Justice, les cimetières, l'Hôtel de Ville, le Palais-Royal, les Invalides, l'Hôtel La Vrillière.</note>
             </item>
@@ -624,7 +624,7 @@
             </item>
             <item n="70" xml:id="CAT_000311_e70">
                <num type="lot">70</num>
-               <name>ORDRE DU SAINT SÉPULCRE</name>
+               <name type="other">ORDRE DU SAINT SÉPULCRE</name>
                <desc xml:id="CAT_000311_e70_d1">Manuscrit in-folio</desc>
                <note>Ce manuscrit contient 1° le registre des personnes tant religieuses que séculières enterrées dans l'église et cimetière du monastère des chanoinesses de l'ordre du Saint Sépulcre, dit de Bellechasse (1638-1791) ; 2° la liste des religieuses décédées dans les maisons du même ordre établis dans les Pays-Bas et autres provinces (Charleville, Bouillon, Liège, Maëstrich, Vierzon, Luynes, etc.)</note>
             </item>
@@ -639,118 +639,118 @@
             </item>
             <item n="72" xml:id="CAT_000311_e72">
                <num type="lot">72</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e72_d1">Lettres, sur vélin, du roi Charles VI ; Paris, 9 mai 1401, 1 p. gr. in-fol</desc>
                <note>Superbe pièce. Le roi assigne aux doyen et chapitre de l'église de Paris des rentes à prendre sur ses domaines pour la fondation d'oeuvres pieuses. Très intéressant document.</note>
             </item>
             <item n="73" xml:id="CAT_000311_e73">
                <num type="lot">73</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e73_d1">Lettre signée avec la souscription autographe par le connétable ANNE de MONTMORENCY aux prévôt des marchands et échevins de Paris ; 11 janvier 1554 (1555, n. s.), 3/4 de p. in-fol</desc>
                <note>Superbe lettre où il leur mande que le Roi va se rendre à Saint-Germain et donnera audience à leurs députés.</note>
             </item>
             <item n="74" xml:id="CAT_000311_e74">
                <num type="lot">74</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e74_d1">L. s. du maréchal François de Montmorency (fils du connétable) aux prévôt des marchands et échevins de Paris; 21 avril 1563, 1/2 p. in-fol., trace de cachet</desc>
                <note>Pièce historique où il les félicite, au nom du Roi, du bon ordre et de la tranquillité qu'ils s'efforcent de faire régner dans la ville de Paris.</note>
             </item>
             <item n="75" xml:id="CAT_000311_e75">
                <num type="lot">75</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e75_d1">P. s. par les habitants des 32 maisons situées sur le pont Saint-Michel ; (janvier 1575), 1 p. in-folio oblong</desc>
                <note>Curieuse pièce. Ils demandent à n'être plus inquiétés dans la jouissance de leurs maisons et s'engagent à payer 600 livres par maison et 50 livres par an.</note>
             </item>
             <item n="76" xml:id="CAT_000311_e76">
                <num type="lot">76</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e76_d1">P. s. par les supérieurs et definiteurs généraux de la congrégation de l'étroite observance du Tiers ordre de Saint-François ; Paris, 30 juillet 1631, 3 p. 1/2 in-fol., cachet</desc>
                <note>Curieux document par lequel ils approuvent la cession faite à leur ordre par les religieuses franciscaines de la maison de Picpus où celles-ci sont actuellement logées.</note>
             </item>
             <item n="77" xml:id="CAT_000311_e77">
                <num type="lot">77</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e77_d1">L. s. par Louis XIV (secrétaire de la main), contresignée par Guénégaud, aux conseillers de la chambre des requêtes; Saint-Germain-en-Laye, 21 octobre 1652, 1 p. in-fol</desc>
                <note>INTÉRESSANT DOCUMENT. Les habitants de sa bonne ville de Paris s'étant délivrés de l'oppression qu'ils souffraient de la tyrannie de la faction qui les opprimait il a résolu d'y aller en personne pour rétablir son autorité. Il leur ordonne en conséquence de quitter Pontoise où ils s'étaient transportés pendant les troubles et de venir à Paris.</note>
             </item>
             <item n="78" xml:id="CAT_000311_e78">
                <num type="lot">78</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e78_d1">L. s., sur vélin, par Louis XIV (par le secrétaire de la main) ; Paris, décembre 1653, 1 p. in-folio</desc>
                <note>Permission accordée par le roi à M. Bailly, maître des comptes, de faire construire un bâtiment de dix toises sur le mur de clôture du bois de Boulogne.</note>
             </item>
             <item n="79" xml:id="CAT_000311_e79">
                <num type="lot">79</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e79_d1">P S. par Eusèbe Renaudot, célèbre médecin, et Perducat, chirurgien du Roi; Paris, 31 août 1664, 2 p. in-folio</desc>
                <note>Document des plus curieux. C'est le dénombrement des ossements de saint Lucius, conservés chez les Révérendes mères Capucines de Paris, et ce en présence du grand vicaire de l'archevêque de Paris.</note>
             </item>
             <item n="80" xml:id="CAT_000311_e80">
                <num type="lot">80</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e80_d1">Lettre signée, en latin, de Michel-Ange Tamburini, au Père Laguille, jésuite à Paris; Rome, 8 mai 1727, 3 p. in-4, cachet de la Société de Jésus</desc>
                <note>Document des plus curieux sur le règlement de la Bibliothèque du collège de Clermont à Paris. Parmi les articles du règlement nous citerons le premier qui jordonne que tout livre prêté devra être rapporté à la Bibliothèque après huit jours, et le cinquième, qui porte que tout jésuite qui sortira du collège ou mourra devra laisser tous ses livres au préfet de la Bibliothèque pour l'usage commun.</note>
             </item>
             <item n="81" xml:id="CAT_000311_e81">
                <num type="lot">81</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e81_d1">P. s. par Jacques Verberckt, sculpteur (mort en 1771), et par le curé et les marguilliers de l'église Saint-Jacques-de-la- Boucherie ; Paris, 12 mars 1739, 5 p. in-fol</desc>
                <note>INTÉRESSANT DOCUMENT. Devis et traité pour les ouvrages de sculpture à faire dans une chapelle de communion que les marguilliers de Saint-Jacques-la-Boucherie ont arrêté de faire construire dans cette église.</note>
             </item>
             <item n="82" xml:id="CAT_000311_e82">
                <num type="lot">82</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e82_d1">Lettre signée par Louis de Bourbon, comte de Clermont, à Bignon; Paris, 18 février 1767, 3/4 de p. in-4</desc>
                <note>Il lui rappelle que les dames religieuses de la Roquette, ses voisines, ont droit à 34 lignes d'eau et qu'elles en manquent depuis quinze mois et sont obligées d'en acheter.</note>
             </item>
             <item n="83" xml:id="CAT_000311_e83">
                <num type="lot">83</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e83_d1">2 p. s. par Bailly et des commissaires de la ville de Paris; 8 octobre et 23 décembre 1790, 2 p. 1/2 in-fol</desc>
                <note>Curieux documents. Estimation de domaines nationaux sis à Paris faite par les architectes Charpentier et Rondelet.</note>
             </item>
             <item n="84" xml:id="CAT_000311_e84">
                <num type="lot">84</num>
-               <name>PARIS. Abbaye de Saint-Germain-des-Prés</name>
+               <name type="other">PARIS. Abbaye de Saint-Germain-des-Prés</name>
                <desc xml:id="CAT_000311_e84_d1">42 pièces, la plupart du XVIIe siècle, concernant les biens, hors Paris, de l'abbaye de Saint-Germain-des-Prés.</desc>
             </item>
             <item n="85" xml:id="CAT_000311_e85">
                <num type="lot">85</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e85_d1">Procès-verbal de l'assemblée partielle de l'ordre du Tiers-Etat, tenue le 21 acril 1789, en l'église des Capucins de Saint-Louis, Chaussée d'Antin, et instructions données aux électeurs, pièce manuscrite, in-4. On y joint des pièces concernant L.-F. Beffara.</desc>
             </item>
             <item n="86" xml:id="CAT_000311_e86">
                <num type="lot">86</num>
-               <name>PARIS. Couvent des Religieuses de la rue Sainte-Avoie</name>
+               <name type="other">PARIS. Couvent des Religieuses de la rue Sainte-Avoie</name>
                <desc xml:id="CAT_000311_e86_d1">Inventaire de ce couvent, dressé le 20 août 1792, copie certifiée conforme, 11 p. 1/2 in-fol</desc>
                <note>Très curieuse pièce écrite sur un papier en-tête de la section de la rue Beaubourg.</note>
             </item>
             <item n="87" xml:id="CAT_000311_e87">
                <num type="lot">87</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e87_d1">11 pièces originales émanant de la section du Théâtre-Français, dite de Marseille ; 1792-1793, 19 p. in-4 ou in-fol</desc>
                <note>IMPORTANT DOSSIER. Procès-verbaux de l'argenterie de Saint-André et des Cordeliers, des ornements et du cuivre et des fusils de chasse appartenant au ci-devant Monsieur (Louis XVIII), remis au comité de surveillance du Théâtre-Français. Très intéressants documents pour l'histoire de Paris pendant la Révolution.</note>
             </item>
             <item n="88" xml:id="CAT_000311_e88">
                <num type="lot">88</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000311_e88_d1">11 pièces originales, 1792, 15 p. in-4</desc>
                <note>Dossier concernant les prêtres massacrés aux Carmes le 2 septembre 1792 : Inventaire des linges et hardes rapportés de l'église des Carmes après le « décès » des prêtres et autres personnes. minute d'une adresse de la section de la fontaine de Grenelle demandant que les propriétés soient sauvegardées maintenant que le peuple est vengé ; lettre de Manuel concernant la succession d'Urbain Lefèvre, vicaire de Saint-Eustache, décédé aux Carmes dans la nuit du 2 septembre; dossier concernant l'ex-cordelier Burté, décédé aux Carmes, lettre de la commune de Paris demandant les noms des personnes mises à mort, rue de Vaugirard le 2 septembre, etc.</note>
             </item>
             <item n="89" xml:id="CAT_000311_e89">
                <num type="lot">89</num>
-               <name>PARIS. Sainte-Geneviève</name>
+               <name type="other">PARIS. Sainte-Geneviève</name>
                <desc xml:id="CAT_000311_e89_d1">40 pièces environ, du XVe au XIXe siècle, concernant l'abbaye de Sainte-Geneviève, ses droits et ses possessions, ainsi que l'église Sainte-Geneviève et le Panthéon.</desc>
             </item>
             <item n="90" xml:id="CAT_000311_e90">
                <num type="lot">90</num>
-               <name>PARIS PENDANT LA RÉVOLUTION</name>
+               <name type="other">PARIS PENDANT LA RÉVOLUTION</name>
                <desc xml:id="CAT_000311_e90_d1">110 pièces</desc>
                <note>Délivrance du pain chez les boulangers, dénonciation contre des prêtres, ouverture clandestine d'oratoires, dépouilles des églises de Paris, destruction des croix et autres objets d'art, pétitions d'ouvriers, poids et mesures, sociétés de prévoyance, théâtres, désordres causés par les prêtres insermentés, cartes de sûreté, etc.</note>
             </item>
             <item n="91" xml:id="CAT_000311_e91">
                <num type="lot">91</num>
-               <name>PAS-DE-CALAIS</name>
+               <name type="other">PAS-DE-CALAIS</name>
                <desc xml:id="CAT_000311_e91_d1">Livre censaire des Pères Dominicains de la cille d'Arras, où sont marquées toutes les rentes qu'ils ont à recevoir, et à payer tant en argent qu'en bled et en acoine, etc. ; 1747, 349 p. in- folio, relié.</desc>
             </item>
             <item n="92" xml:id="CAT_000311_e92">
@@ -770,7 +770,7 @@
             </item>
             <item n="94" xml:id="CAT_000311_e94">
                <num type="lot">94</num>
-               <name>PORT-ROYAL</name>
+               <name type="other">PORT-ROYAL</name>
                <desc xml:id="CAT_000311_e94_d1">Manuscrit du XVIIIe siècle, 520 p. in-12, relié</desc>
                <note>Précieux manuscrit qui donne, par jour, pour les années allant de 1635 à 1740 environ une liste nominative des décès des solitaires de Port-Royal et de leurs amis. Le manuscrit forme une sorte d'éphéméride des décès des partisans de Port-Royal. Chaque nom est accompagné d'une notice, parfois très étendue, d'autant plus précieuse que beaucoup de ces noms ne figurent pas dans les biographies. Une table alphabétique termine ce précieux recueil.</note>
             </item>
@@ -796,7 +796,7 @@
             </item>
             <item n="98" xml:id="CAT_000311_e98">
                <num type="lot">98</num>
-               <name>PROPRIÉTÉS PARISIENNES</name>
+               <name type="other">PROPRIÉTÉS PARISIENNES</name>
                <desc xml:id="CAT_000311_e98_d1">157 pièces</desc>
                <note>Important dossier composé de documents du XVIIe au XIXe siècles, concernant la vente et la transmission de grandes et petites propriétés parisiennes, propriété Lauraguais, rue de Lille, hôtel de Chatillon, hôtel du duc d'Epernon, etc... On a joint les inventaires, etc...</note>
             </item>
@@ -877,61 +877,61 @@
             </item>
             <item n="108" xml:id="CAT_000311_e108">
                <num type="lot">108</num>
-               <name>STATUES DE HENRI IV ET DE LOUIS XIV</name>
+               <name type="other">STATUES DE HENRI IV ET DE LOUIS XIV</name>
                <desc xml:id="CAT_000311_e108_d1">1° P. S. par Dejoly ; 19 mars 1791, 1 p. in-fol., vig. et tête impr. de la municipalité de Paris</desc>
                <note>Récépissé donné par la municipalité de Paris, au comité de la section de Henri IV, de l'inscription latine détachée de la statue de Henri IV érigée sur le pont Neuf.</note>
                <desc xml:id="CAT_000311_e108_d2">2° L. A. S. de Thury, fondeur, à la commission du camp sous Paris ; Paris, 24 septembre 1792, 1 p. in-fol.</desc>
             </item>
             <item n="109" xml:id="CAT_000311_e109">
                <num type="lot">109</num>
-               <name>THÉATRE DES ARTS</name>
+               <name type="other">THÉATRE DES ARTS</name>
                <desc xml:id="CAT_000311_e109_d1">L. s. par La Suze, Lainez, Rochefort, Cacailhès, Rey, Rousseau, Lays, et Vestris, artistes du théâtre des Arts (ci-devant Académie de musique), au Directoire exécutif; 20 frimaire an IV, 3 p. in-fol</desc>
                <note>Important document. Ils rappellent que le gouvernement a toujours reconnu l'utilité de l'Opéra et a accordé une subvention mensuelle de 30,000 livres. Vu la progression des dépenses, ils demandent l'augmentation de cette subvention.</note>
             </item>
             <item n="110" xml:id="CAT_000311_e110">
                <num type="lot">110</num>
-               <name>THÉATRE DE L'ÉGALITÉ</name>
+               <name type="other">THÉATRE DE L'ÉGALITÉ</name>
                <desc xml:id="CAT_000311_e110_d1">L. s. par onze artistes du théâtre de l'Égalité à Robespierre ; prairial an II, 1 p. in-4</desc>
                <note>Curieuse lettre de condoléance sur une tentative d'assassinat contre Robespierre.</note>
             </item>
             <item n="111" xml:id="CAT_000311_e111">
                <num type="lot">111</num>
-               <name>THEATRE-FRANÇAIS</name>
+               <name type="other">THEATRE-FRANÇAIS</name>
                <desc xml:id="CAT_000311_e111_d1">11 pièces</desc>
                <note>Pétition des sociétaires pour jouer sans retard le Regulus d'Arnault fils, document sur le différend qu'avaient Al Duval et Al. Dumas, à propos du Complot de famille du premier et de l'Henri III du second, deux feuilles d'émargements signées par les artistes ayant pris part aux spectacles de la cour, demande des sociétaires pour être consultés au sujet d'un projet d'ordonnance sur l'Administration de la Comédie-Française, etc...</note>
             </item>
             <item n="112" xml:id="CAT_000311_e112">
                <num type="lot">112</num>
-               <name>THÉATRE-FRANÇAIS</name>
+               <name type="other">THÉATRE-FRANÇAIS</name>
                <desc xml:id="CAT_000311_e112_d1">L. S. par Talma, Mlle Mars, Fleury, Michot, Saint-Prix, Damas et Lacace; (1814), 2 p. 1/2 in-fol</desc>
                <note>Document historique sur un procès que la Comédie-Française vient de perdre, ce qui l'oblige à payer 66.000 francs. Curieux détails à ce sujet.</note>
             </item>
             <item n="113" xml:id="CAT_000311_e113">
                <num type="lot">113</num>
-               <name>THÉATRE-ITALIEN</name>
+               <name type="other">THÉATRE-ITALIEN</name>
                <desc xml:id="CAT_000311_e113_d1">50 pièces environ</desc>
                <note>Plans, mémoires de travaux, correspondance, etc... la plupart relatif aux suites de l'incendie de la salle Favart.</note>
             </item>
             <item n="114" xml:id="CAT_000311_e114">
                <num type="lot">114</num>
-               <name>THÉATRE-ITALIEN</name>
+               <name type="other">THÉATRE-ITALIEN</name>
                <desc xml:id="CAT_000311_e114_d1">Historique de la noucelle salle des Comédiens italiens ordinaires du Roy, depuis leur établissement à Paris en 1716, à l'hôtel de Bourgogne, rue Mauconseil, jusqu'à leur passage sur le terrain de Choiseul en 1783, manuscrit du XVIIIe siècle, 137 p. in-folio, relié vélin vert.</desc>
             </item>
             <item n="115" xml:id="CAT_000311_e115">
                <num type="lot">115</num>
-               <name>THÉATRE DE L'OPÉRA-COMIQUE</name>
+               <name type="other">THÉATRE DE L'OPÉRA-COMIQUE</name>
                <desc xml:id="CAT_000311_e115_d1">59 pièces</desc>
                <note>Dossier curieux provenant des papiers de Pixérécourt, règlement signé par M. de Cramayel, lettres de Dupaty aux artistes de l'OpéraComique, rapport pour la réorganisation de l'Opéra-Comique (1828); lettre de l'architecte de Guerchy sur la reconstruction de l'OpéraComique, délibérations des artistes du théâtre (4 vendémiaire an IV), pour l'acquisition des diverses boutiques faisant le pourtour du théâtre de l'Opéra-Comique, etc...</note>
             </item>
             <item n="116" xml:id="CAT_000311_e116">
                <num type="lot">116</num>
-               <name>THÉATRE DE LA RENAISSANCE.</name>
+               <name type="other">THÉATRE DE LA RENAISSANCE.</name>
                <desc xml:id="CAT_000311_e116_d1">P. s. par Mélesville, Casimir Delavigne, Anténor Joly, Bayard, Dumanoir, Bouchardy, Grisar.</desc>
                <note>Conventions faites entre les auteurs dramatiques et le directeur du théâtre de la Renaissance. Curieux documents pour l'histoire théâtrale.</note>
             </item>
             <item n="117" xml:id="CAT_000311_e117">
                <num type="lot">117</num>
-               <name>THÉATRES PARISIENS</name>
+               <name type="other">THÉATRES PARISIENS</name>
                <desc xml:id="CAT_000311_e117_d1">78 pièces. Variétés, Georama, bail du théâtre Feydeau, Porte Saint- Martin, cirque Napoléon, théâtre sans prétention, Opéra, etc</desc>
             </item>
             <item n="118" xml:id="CAT_000311_e118">
@@ -1002,7 +1002,7 @@
             </item>
             <item n="126" xml:id="CAT_000311_e126">
                <num type="lot">126</num>
-               <name>CATALOGUE D'AUTOGRAPHES</name>
+               <name type="other">CATALOGUE D'AUTOGRAPHES</name>
                <desc xml:id="CAT_000311_e126_d1">300 catalogues environ, in-8 et in-4, à prix marqués et de ventes, provenant, en grande partie, des maisons N. et G. Charavay</desc>
             </item>
          </list>

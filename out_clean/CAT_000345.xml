@@ -733,13 +733,13 @@
                <measure commodity="currency" unit="FRF" quantity="5">5</measure>
                <note>Curieuse lettre relative à la mauvaise situation de l'Opéra-Comique. Ce n'est pas l'Odéon qui fait du tort à ce théâtre, mais bien le Gymnase, qui a des protections très-puissantes malgré son mauvais genre. « Si cela continue, le torrent du mauvais genre entraînera tout: il n'y plus de traditions des Grétry, Monsigny, Champein, Dalayrac, Boyeldieu etc. ; il n'y aura plus que de la musique de boulevard... Je crois qu'il faut songer à administrer ce théâtre (l'Opéra-Comique) d'une autre manière...»</note>
             </item>
-            <item n="19554_bis" xml:id="CAT_000345_e19554_bis">
+            <item n="19554_bis" xml:id="CAT_000345_e19554bis">
                <num type="lot">19554_bis</num>
                <name type="author">LEGOUVÉ (Gabriel)</name>
                <trait>
                   <p>l'auteur du Mérite des femmes, membre de l'Institut.</p>
                </trait>
-               <desc xml:id="CAT_000345_e19554_bis_d1">L. a. s. ; Paris an X, 1 p. 1/2 in-4.</desc>
+               <desc xml:id="CAT_000345_e19554bis_d1">L. a. s. ; Paris an X, 1 p. 1/2 in-4.</desc>
                <measure commodity="currency" unit="FRF" quantity="4">4</measure>
             </item>
             <item n="19555" xml:id="CAT_000345_e19555">

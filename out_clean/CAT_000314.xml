@@ -93,19 +93,19 @@
             </item>
             <item n="2" xml:id="CAT_000314_e2">
                <num type="lot">2</num>
-               <name>AISNE (département de 1')</name>
+               <name type="other">AISNE (département de 1')</name>
                <desc xml:id="CAT_000314_e2_d1">Charte, en latin, sur vélin, de l'official de Laon; Laon, le samedi après la Pentecôte, 1281, 1 p. grand in-folio, bien conservée</desc>
                <note>Charte constatant la vente faite par Oudard, fils de Gérard, jadis maire de Crécy-sur-Serre, et Ad a sa femme, à Robert de Chalendry clerc, de deux prés situés à Crécy-sur-Serre.</note>
             </item>
             <item n="3" xml:id="CAT_000314_e3">
                <num type="lot">3</num>
-               <name>AISNE (département de l')</name>
+               <name type="other">AISNE (département de l')</name>
                <desc xml:id="CAT_000314_e3_d1">3 cahiers manuscrits; 1636, 1637,1638, 132 p. in-folio</desc>
                <note>Comptes de François Riverain, sieur des Granges, prêtre et économe de l'abbaye de Prémontré. L'un d'eux est signé par le cardinal de Sourdis.</note>
             </item>
             <item n="4" xml:id="CAT_000314_e4">
                <num type="lot">4</num>
-               <name>AISNE (département de 1')</name>
+               <name type="other">AISNE (département de 1')</name>
                <desc xml:id="CAT_000314_e4_d1">Expédition notariée; 18 août 1598, 10 pp. in-folio</desc>
                <note>Vente à Gaspard de Schonberg, comte de Nanteuil, comme subrogé aux droits d'Imbert de Diesbach, gentilhomme bourgeois et du conseil de la ville et canton de Berne, des seigneuries d'Auchy-la-Ville, Neuilly-saint-Front, aliénées du domaine royal en vertu de l'édit de 1591. Le prix de l'acquisition est en partie payé des deniers provenant de l'aliénation par Gaspard de Schonberg et sa femme, Jeanne de Chasteignier, de la seigneurie de Bourg-l'Archambault.</note>
             </item>
@@ -986,7 +986,7 @@
             </item>
             <item n="107" xml:id="CAT_000314_e107">
                <num type="lot">107</num>
-               <name>LOUIS XIV (Musique de)</name>
+               <name type="other">LOUIS XIV (Musique de)</name>
                <desc xml:id="CAT_000314_e107_d1">P. s. (secrétaire de la main); Vincennes, 8 septembre 1666, 1 p. in-4° oblong</desc>
                <note>Brevet nommant Me Robert Ballard, imprimeur du Roi, à la charge de noteur de sa chapelle de musique, en remplacement de Nicolas Jarry (le célèbre calligraphe). - (Ce document fixe à quelques semaines près la mort de N. Jarry, que l'on dit être mort « vers 1670 »).</note>
             </item>
@@ -1215,7 +1215,7 @@
             </item>
             <item n="135" xml:id="CAT_000314_e135">
                <num type="lot">135</num>
-               <name>PASSEPORT.</name>
+               <name type="other">PASSEPORT.</name>
                <desc xml:id="CAT_000314_e135_d1">P. s. par Talleyrand, ministre des relations extérieures; Paris, 19 ventôse an VII, 1 p. in-folio</desc>
                <note>Passeport pour Auguste Dhoteil, négociant se rendant en Italie, La pièce est ornée d'une grande vignette dessinée par Gatteaux et gravée par R. de Launay. Elle représente la République française appuyée sur les droits de l'homme, une réunion de petits médaillons représentent les départements et symbolisent la France. De la main droite elle montre une sorte de génie ailée tenant d'une main un rameau d'olivier et de l'autre un traité de paix.</note>
             </item>
@@ -1305,7 +1305,7 @@
             </item>
             <item n="146" xml:id="CAT_000314_e146">
                <num type="lot">146</num>
-               <name>RÉVOLUTION FRANÇAISE.</name>
+               <name type="other">RÉVOLUTION FRANÇAISE.</name>
                <desc xml:id="CAT_000314_e146_d1">67 pièces.</desc>
                <note>Abrial, Barbé-Marbois, Barnave, note (aut.), marquis de Bonnay, Carnot-Feullins, Chauveau-Lagarde, Clavière, Clément de Ris, Cossé-Brissac, Lambrechts, Pache, Palloy, Petiet, Sémonville, etc..</note>
             </item>
@@ -1422,7 +1422,7 @@
             </item>
             <item n="159 bis." xml:id="CAT_000314_e159bis">
                <num type="lot">159 bis.</num>
-               <name>SEINE (département de la).</name>
+               <name type="other">SEINE (département de la).</name>
                <desc xml:id="CAT_000314_e159bis_d1">1° Registre censier de la seigneurie d'Aulnay près Paris Aulnay-lès-Bondy) pour les années 1536 à 1539, un volume in-folio, 170 feuillets, relié parchemin.</desc>
                <desc xml:id="CAT_000314_e159bis_d2">2° Registre de la même seigneurie pour l'année 1605, un volume in-folio, 113 feuillets, relié parchemin</desc>
             </item>
@@ -1493,19 +1493,19 @@
             </item>
             <item n="168" xml:id="CAT_000314_e168">
                <num type="lot">168</num>
-               <name>VIGNETTE RÉPUBLICAINE.</name>
+               <name type="other">VIGNETTE RÉPUBLICAINE.</name>
                <desc xml:id="CAT_000314_e168_d1">L. s. du fondé de pouvoirs de la maison Ouvrard; Paris, 21 ventôse an VII, 1 p. 1/2 in-folio</desc>
                <note>La pièce est ornée d'une jolie vignette gravée représentant une Liberté répandant à terre le contenu d'une corne d'abondance, et s'appuyant de l'autre sur la pique, arme de l'homme libre.</note>
             </item>
             <item n="169" xml:id="CAT_000314_e169">
                <num type="lot">169</num>
-               <name>VIGNETTE RÉPUBLICAINE</name>
+               <name type="other">VIGNETTE RÉPUBLICAINE</name>
                <desc xml:id="CAT_000314_e169_d1">Commission pour le sieur Penvern du sous-chef de la comptabilité à la Commission du commerce et des approvisionnements; Paris, 1er brumaire an III, 1 p. in-folio.</desc>
                <note>Cette patente est ornée d'une grande vignette gravée, exécutée par Tilliard. Elle représente la déesse Cérès répandant l'abondance, ainsi que les différents emblèmes de l'agriculture. Sa parfaite exécution en fait une des plus jolies vignettes de la Révolution.</note>
             </item>
             <item n="170" xml:id="CAT_000314_e170">
                <num type="lot">170</num>
-               <name>VIGNETTE RÉPUBLICAINE.</name>
+               <name type="other">VIGNETTE RÉPUBLICAINE.</name>
                <desc xml:id="CAT_000314_e170_d1">L. s. de Charles Sonnerat, entrepreneur général des chevaux d'artillerie et transports militaires; Bruxelles, 13 messidor an III, 1 p. in-4°. 252</desc>
                <note>Cette lettre est ornée d'une vignette du célèbre graveur belge A. Cardon; elle représente des chevaux en liberté; au fond une barrière rustique, dont un montant est surmonté du bonnet de la Liberté. Cette vignette est très rare.</note>
             </item>

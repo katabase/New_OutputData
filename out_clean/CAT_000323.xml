@@ -1154,7 +1154,7 @@
             </item>
             <item n="131" xml:id="CAT_000323_e131">
                <num type="lot">131</num>
-               <name>Delille (l'abbé Jacques)</name>
+               <name type="author">Delille (l'abbé Jacques)</name>
                <trait>
                   <p>célèbre poëte et traducteur, de l'Acad. fr., n. 1738, m. 1813.</p>
                </trait>
@@ -6107,7 +6107,7 @@
             </item>
             <item n="733" xml:id="CAT_000323_e733">
                <num type="lot">733</num>
-               <name/>
+               <name type="other"/>
                <name type="author">Weber (Carl-Maria de)</name>
                <trait>
                   <p>l'auteur du Freyschütz, n. 1786, m. 1826.</p>
@@ -6493,7 +6493,7 @@
             </item>
             <item n="781" xml:id="CAT_000323_e781">
                <num type="lot">781</num>
-               <name/>
+               <name type="other"/>
                <desc xml:id="CAT_000323_e781_d1">Sous ce numéro, on vendra un certain nombre de lettres de littérateurs, artistes, savants, etc., que le temps n'a pas permis de cataloguer</desc>
             </item>
          </list>

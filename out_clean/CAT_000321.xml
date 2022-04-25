@@ -397,7 +397,7 @@
             </item>
             <item n="38" xml:id="CAT_000321_e38">
                <num type="lot">38</num>
-               <name>COLLIER DE LA REINE (affaire du)</name>
+               <name type="other">COLLIER DE LA REINE (affaire du)</name>
                <desc xml:id="CAT_000321_e38_d1">Pièce manuscrite, signée par Df.ffonseca, greffier d'office; 3 novembre 1785, 7 p. in-folio</desc>
                <note>Inventaire des effets qui ont été trouvés dans le logement du sieur de Bousière et delà demoiselle Marie-Nicole Le Guay, soi-disant d'Oliva.</note>
             </item>
@@ -1052,7 +1052,7 @@
             </item>
             <item n="118" xml:id="CAT_000321_e118">
                <num type="lot">118</num>
-               <name>PARIS</name>
+               <name type="other">PARIS</name>
                <desc xml:id="CAT_000321_e118_d1">L. s. du général SACKEN, gouverneur de Paris, au baron Pasquier, préfet de police; Paris, 9 mai 1814, 1 p. in-folio</desc>
                <note>Lettre relative à l'ensevelissement des cadavres, qui sont restés sans sépulture à Montmartre et dont les émanations peuvent être nuisibles pour les communes environnantes.</note>
             </item>

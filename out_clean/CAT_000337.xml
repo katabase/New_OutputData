@@ -942,20 +942,14 @@
                <desc xml:id="CAT_000337_e6898_d1">L. a. s. Aremberg, 10 octobre 1828, 1 p. pl. in-8, relative à son frère et à sa mère. Jolie letre.</desc>
                <measure commodity="currency" unit="FRF" quantity="17">17</measure>
             </item>
-            <item n="6899" xml:id="CAT_000337_e6899">
-               <num type="lot">6899</num>
-               <name type="author"/>
-               <desc xml:id="CAT_000337_e6899_d1"/>
-               <measure commodity="currency" unit="FRF" quantity=""/>
-            </item>
             <item n="6900" xml:id="CAT_000337_e6900">
                <num type="lot">6900</num>
                <name type="author">NAPOLÉON BONAPARTE (le Prince)</name>
                <trait>
                   <p>général, Président du comité de l'Exposition.</p>
                </trait>
-               <desc xml:id="CAT_000337_e6900_d1"/>
-               <measure commodity="currency" unit="FRF" quantity=""/>
+               <desc xml:id="CAT_000337_e6900_d1">Pas de description</desc>
+               <measure commodity="currency" unit="FRF" quantity="4">4</measure>
             </item>
             <item n="6901" xml:id="CAT_000337_e6901">
                <num type="lot">6901</num>
@@ -1280,7 +1274,7 @@
                   <p>célèbre compositeur de musique.</p>
                </trait>
                <desc xml:id="CAT_000337_e6937_d1">L. a. s., 1 p. pl. in-18, relative à un Concert.</desc>
-               <measure commodity="currency" unit="FRF" quantity="u.1.75">u 1 75</measure>
+               <measure commodity="currency" unit="FRF" quantity="1.75">1.75</measure>
             </item>
             <item n="6938" xml:id="CAT_000337_e6938">
                <num type="lot">6938</num>

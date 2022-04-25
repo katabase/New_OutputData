@@ -1307,11 +1307,6 @@
                <desc xml:id="CAT_000365_e27678_d1">L. a. s. à Baculard d'Arnaud; Amiens, 3 déc. 1765, 1 p. in-4. Intéressante.</desc>
                <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
-            <item n="27679" xml:id="CAT_000365_e27679">
-               <num type="lot">27679</num>
-               <name/>
-               <desc xml:id="CAT_000365_e27679_d1"/>
-            </item>
             <item n="27680" xml:id="CAT_000365_e27680">
                <num type="lot">27680</num>
                <name type="author">SIMON (Ed.-Th.)</name>
@@ -1725,13 +1720,13 @@
                <measure commodity="currency" unit="FRF" quantity="5">5</measure>
                <note>Il déclare qu'il a toujours, dans les moments de malheur, eu à se louer de la généreuse conduite des Français.</note>
             </item>
-            <item n="27728_bis" xml:id="CAT_000365_e27728_bis">
+            <item n="27728_bis" xml:id="CAT_000365_e27728bis">
                <num type="lot">27728_bis</num>
                <name type="author">SMEATHMAN (Henry).</name>
                <trait>
                   <p>botaniste et voyageur</p>
                </trait>
-               <desc xml:id="CAT_000365_e27728_bis_d1">L. a. s. à M. Curtis; Banamas, sur la côte d'Afrique, 29 déc 1773, 3 p. in-4, Scientifique.</desc>
+               <desc xml:id="CAT_000365_e27728bis_d1">L. a. s. à M. Curtis; Banamas, sur la côte d'Afrique, 29 déc 1773, 3 p. in-4, Scientifique.</desc>
                <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="27729" xml:id="CAT_000365_e27729">
